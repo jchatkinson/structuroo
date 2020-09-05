@@ -1,0 +1,19 @@
+{
+  "name": "structuroo",
+  "version": "0.0.1",
+  "description": "Tools for structural engineers",
+  "main": "index.js",
+  "authors": {
+    "name": "Jeremy Atkinson",
+    "email": "jchatkinson@gmail.com"
+  },
+  "repository": "/structuroo",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
